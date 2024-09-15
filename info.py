@@ -13,14 +13,14 @@ def is_enabled(value, default):
         return default
 
 
-ADMIN = int(getenv("ADMIN", ""))
-API_ID = int(getenv("API_ID", ""))
-API_HASH = str(getenv("API_HASH", ""))
-BOT_TOKEN = str(getenv("BOT_TOKEN", ""))
+ADMIN = int(getenv("ADMIN",5346278816 ""))
+API_ID = int(getenv("API_ID",22384370 ""))
+API_HASH = str(getenv("API_HASH"05e2be75292ecbec3f7a29bf13b1e29e, ""))
+BOT_TOKEN = str(getenv("BOT_TOKEN",6647184416:AAE362zR1uH0qm7KWXbar647r2YVgyxDk7I ""))
 MONGO_DB = str(
     getenv(
         "MONGO_DB",
-        "mongodb+srv://replacewithyourmongodb:replacewithyourmongodb@cluster0.zi78j51.mongodb.net/?retryWrites=true&w=majority",
+        "mongodb+srv://Omsairhsbew:omsai09865@cluster0.iuib2l0.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
     )
 )
 DEF_CAP = str(
